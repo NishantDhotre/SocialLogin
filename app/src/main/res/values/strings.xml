@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Social2.1</string>
+    <string name="facebook_app_id">4153383451418571</string>
+    <string name="fb_login_protocol_scheme">fb4153383451418571</string>
+    <string name="profilepic">SparkLogo</string>
+    <string name="SparkLogo">SparkLogo</string>
+    <string name="title">Spark Foundation</string>
+</resources>

@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "419323160551",
+    "project_id": "sociallogin-11484",
+    "storage_bucket": "sociallogin-11484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419323160551:android:c834ef85ee26a34319bf42",
+        "android_client_info": {
+          "package_name": "com.example.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419323160551-9gf26g4tbflmvf1gh3ha0fqor1qhg6mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZooS2AfEUX1Vim7zcvjfSeeY8BIyJQ6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419323160551-9gf26g4tbflmvf1gh3ha0fqor1qhg6mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419323160551:android:f555e2b26988bc8719bf42",
+        "android_client_info": {
+          "package_name": "com.social.login2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419323160551-nvha1mi7s21f7n0qeasjaro5d21dimb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.social.login2",
+            "certificate_hash": "01357f79d0374875334da93b13b64c2106bac420"
+          }
+        },
+        {
+          "client_id": "419323160551-9gf26g4tbflmvf1gh3ha0fqor1qhg6mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZooS2AfEUX1Vim7zcvjfSeeY8BIyJQ6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419323160551-9gf26g4tbflmvf1gh3ha0fqor1qhg6mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419323160551:android:82f2de038e25bd7b19bf42",
+        "android_client_info": {
+          "package_name": "com.social.social21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419323160551-u3ree1r25btt6j4t6o5h0dl0do434e49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.social.social21",
+            "certificate_hash": "01357f79d0374875334da93b13b64c2106bac420"
+          }
+        },
+        {
+          "client_id": "419323160551-9gf26g4tbflmvf1gh3ha0fqor1qhg6mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZooS2AfEUX1Vim7zcvjfSeeY8BIyJQ6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419323160551-9gf26g4tbflmvf1gh3ha0fqor1qhg6mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
